@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Meu primeiro programa...</title>
+    <title>Soma...</title>
     <style>
       body {
         background-color: rgb(96, 96, 241);
@@ -21,10 +21,13 @@
     <!-- Comentário em HTML -->
     <p>Já me livrei da maldição</p>
     <script>
-      var n1 = Number.parseInt(window.prompt("Digite um número: ")); //String
-      var n2 = Number.parseInt(window.prompt("Digite outro número: ")); //String
+      //O modo simplificado da sintax Number.parseInt(n) e Number.parseFloat(n) é: Number(n)
+      // O javaScript consegue nas versões mais novas identificar automaticamente se o número é inteiro ou real e faz a conversão.
+
+      var n1 = Number(window.prompt("Digite um número: ")); //String
+      var n2 = Number(window.prompt("Digite outro número: ")); //String
       var s = n1 + n2;
-      window.alert("A soma dos valores é " + s); //Concatenação
+      window.alert(`A soma entre ${n1} e ${n2} é igual a ${s} `); //Concatenação
       // (number + number) para adição
       // (string + string) para concatenação
     </script>
