@@ -7,7 +7,7 @@
 </p>
 
 <p align="right">
-<h3>Aprendi a desenvolver sites com JavaScript</h3>
+<h3>Aprendi a desenvolver sites com JavaScript e EcmaScript assim como desenvolvi noções básicas de Node JS</h3>
 
 <a href="https://mateusleguir.github.io/projeto-hora-do-dia" target="_blank">Acessar projeto 01</a><br>
 </p>
