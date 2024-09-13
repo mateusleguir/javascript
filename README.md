@@ -10,4 +10,6 @@
 <h3>Aprendi a desenvolver sites com JavaScript assim como desenvolvi noções básicas de Node JS</h3>
 
 <a href="https://mateusleguir.github.io/projeto-hora-do-dia" target="_blank">Acessar projeto 01</a><br>
+
+<a href="https://mateusleguir.github.io/projeto-verificar-idade" target="_blank">Acessar projeto 02</a><br>
 </p>
