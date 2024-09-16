@@ -12,4 +12,7 @@
 <a href="https://mateusleguir.github.io/projeto-hora-do-dia" target="_blank">Acessar projeto 01</a><br>
 
 <a href="https://mateusleguir.github.io/projeto-verificar-idade" target="_blank">Acessar projeto 02</a><br>
+
+<a href="https://mateusleguir.github.io/projeto-contador" target="_blank">Acessar projeto 03</a><br>
+
 </p>
