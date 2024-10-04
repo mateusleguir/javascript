@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<h3>Aprendi a desenvolver sites com JavaScript assim como aprendi o básico de Node JS</h3>
+<h3>Aprendi a desenvolver sites com JavaScript e iniciei os estudos de Node JS</h3>
 
 <a href="https://mateusleguir.github.io/projeto-hora-do-dia" target="_blank">Acessar projeto-01</a><br>
 
